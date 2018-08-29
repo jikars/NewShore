@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+
+<div style="height:100%;width:100%;background-color:#ffffff">
+    <span class="col-lg-4 col-md-3 col-sm-1 hidden-xs" />
+    <div class="col-lg-4 col-md-6 col-sm-10 col-xs-12">
+        @using (Html.BeginForm("UploadFiles", "api/ClientNewshoreService", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <input name="files" type="file" id="files" multiple="multiple" value="Seleccionar Achivo">
+            <br />
+            <input type="submit" class="btn btn-primary" value="Subir Archvivos" />
+        }
+
+
+        @using (Ajax.BeginForm("ResultFile", "api/ClientNewshoreService", null, new AjaxOptions() { HttpMethod = "post" }, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary"  value="Descargar Resultados"/>
+            </div>}
+
+        <div id="resultTarget">  </div>
+
+    </div>
+    <span class="col-lg-4 col-md-3 col-sm-1 hidden-xs" />
+
+</div>

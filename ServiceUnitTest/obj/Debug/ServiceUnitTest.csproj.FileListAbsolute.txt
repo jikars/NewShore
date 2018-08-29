@@ -1,0 +1,14 @@
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\ServiceUnitTest.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\ServiceUnitTest.pdb
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\obj\Debug\ServiceUnitTest.csprojAssemblyReference.cache
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\obj\Debug\ServiceUnitTest.csproj.CoreCompileInputs.cache
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\obj\Debug\ServiceUnitTest.csproj.CopyComplete
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\obj\Debug\ServiceUnitTest.dll
+D:\LambdaCode\TestDavidHerrera\ServiceUnitTest\obj\Debug\ServiceUnitTest.pdb

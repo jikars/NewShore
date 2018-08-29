@@ -1,0 +1,6 @@
+D:\LambdaCode\TestDavidHerrera\Utilities\bin\x64\Debug\Utilities.dll
+D:\LambdaCode\TestDavidHerrera\Utilities\bin\x64\Debug\Utilities.pdb
+D:\LambdaCode\TestDavidHerrera\Utilities\obj\x64\Debug\Utilities.csprojAssemblyReference.cache
+D:\LambdaCode\TestDavidHerrera\Utilities\obj\x64\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\LambdaCode\TestDavidHerrera\Utilities\obj\x64\Debug\Utilities.dll
+D:\LambdaCode\TestDavidHerrera\Utilities\obj\x64\Debug\Utilities.pdb

@@ -1,0 +1,14 @@
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\DataAccessUnitTest.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\DataAccessUnitTest.pdb
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\obj\Debug\DataAccessUnitTest.csprojAssemblyReference.cache
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\obj\Debug\DataAccessUnitTest.csproj.CoreCompileInputs.cache
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\obj\Debug\DataAccessUnitTest.csproj.CopyComplete
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\obj\Debug\DataAccessUnitTest.dll
+D:\LambdaCode\TestDavidHerrera\DataAccessUnitTest\obj\Debug\DataAccessUnitTest.pdb
